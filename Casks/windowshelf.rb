@@ -1,6 +1,6 @@
 cask "windowshelf" do
-  version "1.0.122"
-  sha256 "344c6cf94c6afab0661b05b227985717310301c7d4d966f20e2a3d5e7d3b20eb"
+  version "1.0.123"
+  sha256 "8f2274a87f7d9fd7de05ee73e1ba88b645f533fb8703b024435985983d9f49f9"
 
   url "https://windowshelf.app/WindowShelf.dmg"
   name "WindowShelf"
